@@ -18,6 +18,6 @@ To use the program you just have to call the function then select the Twitch cha
 python3 twitchAssembler twitch.tv/github -limit 10
 ```
 
-![name-of-you-image]()
+![name-of-you-image](https://github.com/ludwigsaux/twitch-clips-compiler/blob/main/twitch.PNG)
 
 
