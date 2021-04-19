@@ -9,3 +9,9 @@ Why this project?
 I'm a student and I'm learning to develop my skills so I'm inspired by existing projects that seem interesting. I saw a similar project on a French YouTube channel, in his video, V2F, explains how he made a robot that compiles the best Twitch clips of the day and publish them on YouTube. For my case I decided to make a compilation of the channel of my choice. 
 
 I realized this project in python in order to develop my skills and my knowledge in this language but also to develop my skills in Linux and OSs.
+
+How does the program work ?
+
+To use the program you just have to call the function then select the Twitch channel of your choice and select the number of clips you want.
+
+
