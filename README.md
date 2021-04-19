@@ -18,7 +18,8 @@ To use the program you just have to call the function then select the Twitch cha
 python3 twitchAssembler twitch.tv/github -limit 10
 ```
 
-As you can see on the picture below, the Twitch channel of GitHub has many Twitch clips recorded by users so you can make a compilation.
+As you can see on the picture below, the Twitch channel of GitHub has many Twitch clips recorded by users so you can make a compilation. On the command above the compilation will select the 10 most popular twitch clips.
+
 
 ![name-of-you-image](https://github.com/ludwigsaux/twitch-clips-compiler/blob/main/twitch.PNG)
 
