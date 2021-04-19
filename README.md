@@ -15,7 +15,7 @@ How does the program work ?
 To use the program you just have to call the function then select the Twitch channel of your choice and select the number of clips you want.
 
 ```bash
-python3 twitchAssembler -limit 10
+python3 twitchAssembler twitch.tv/github -limit 10
 ```
 
 ![name-of-you-image]()
