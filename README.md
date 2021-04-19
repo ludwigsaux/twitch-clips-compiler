@@ -18,6 +18,6 @@ To use the program you just have to call the function then select the Twitch cha
 python3 twitchAssembler -limit 10
 ```
 
-![name-of-you-image](https://th.bing.com/th/id/OIP.XoP4y5K3-mbaasTzexYJBQHaNK?pid=ImgDet&rs=1)
+![name-of-you-image]()
 
 
