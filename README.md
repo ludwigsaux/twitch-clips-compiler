@@ -1,5 +1,8 @@
 # twitch-clips-compiler
 
+Project Progress: ▓▓▓▓▓▓▓▓▓▓░░░░░ 65%
+
+
 What is the project ?
 
 The goal of the project is to make compilations of Twitch clips and publish them on YouTube. To be simple, the user must fill in the name of the Twitch channel he wants to use and specify the number of Twitch clips he wants to use (a default value exists and can be modified). Then, everything will be done automatically, assembling the clips, publishing on YouTube as well as configuring and referencing the video.
